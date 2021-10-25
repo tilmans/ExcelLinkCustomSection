@@ -1,7 +1,7 @@
 {
-  "name": "custom-section-template",
+  "name": "excel-link-custom-section",
   "version": "1.0.0",
-  "description": "An example for a custom section renderer customisation",
+  "description": "Overwrite standard link generator to support Excel exports",
   "main": "index.js",
   "scripts": {
     "build": "tsc -b",
