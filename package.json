@@ -1,0 +1,20 @@
+{
+  "name": "custom-section-template",
+  "version": "1.0.0",
+  "description": "An example for a custom section renderer customisation",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "watch": "tsc -b --watch",
+    "pretty": "prettier --write src/",
+    "clean": "rm -rf dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jquery": "^3.5.5",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.5"
+  }
+}
